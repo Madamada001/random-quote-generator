@@ -68,7 +68,7 @@ function generateMessage() {
 
     setTimeout(() => {
       displayMessage.textContent =
-        "Joking aside, feel free to click or tap on the text at the top of this page if you'd like to chat!";
+      "Joking aside, feel free to click or tap on the text at the top of this page if you'd like to chat! If you feel you need someone to talk to, know that I'm just a message away!😁"
       myButton.disabled = true;
     }, 8000);
   }
